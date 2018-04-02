@@ -1,0 +1,18 @@
+{
+  "name": "RailwayApp",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "cordova-android": "^6.2.3",
+    "cordova-plugin-camera": "2.4.1",
+    "cordova-plugin-splashscreen": "4.1.0",
+    "cordova-plugin-whitelist": "1"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-splashscreen": {},
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-camera": {}
+    }
+  }
+}
